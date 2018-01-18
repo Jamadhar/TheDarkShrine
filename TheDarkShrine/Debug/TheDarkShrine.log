@@ -1,0 +1,4 @@
+﻿  Player.cpp
+d:\projects\thedarkshrine\thedarkshrine\player.cpp(23): warning C4018: '<': signed/unsigned mismatch
+d:\projects\thedarkshrine\thedarkshrine\player.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  TheDarkShrine.vcxproj -> D:\Projects\TheDarkShrine\Debug\TheDarkShrine.exe
